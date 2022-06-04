@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "697824886446",
-    "project_id": "moviles-2022-fireb",
-    "storage_bucket": "moviles-2022-fireb.appspot.com"
+    "project_number": "853775781499",
+    "project_id": "movies-firebase-23960",
+    "storage_bucket": "movies-firebase-23960.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:697824886446:android:1aefb9580a74876f60f73f",
+        "mobilesdk_app_id": "1:853775781499:android:1673386cda056b25d89cde",
         "android_client_info": {
           "package_name": "com.moviles.basicfirebaseapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "697824886446-fmb8lvs6a3m48hlrqgs3q4hp1q830hsl.apps.googleusercontent.com",
+          "client_id": "853775781499-d295n4mt4a938flufineve9kq6n3h64u.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDq4lyRnthtKHWVlZ_75Um6hDqutOIfwCc"
+          "current_key": "AIzaSyBBYFz-FoI7yPQMGkGzFsto65qdwkWmASQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "697824886446-fmb8lvs6a3m48hlrqgs3q4hp1q830hsl.apps.googleusercontent.com",
+              "client_id": "853775781499-d295n4mt4a938flufineve9kq6n3h64u.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -88,4 +88,16 @@ app:layout_constraintTop_toBottomOf="@id/etType"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rwMovieLista"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/item_movie"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn1"
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>
