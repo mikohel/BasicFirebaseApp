@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         queue = Volley.newRequestQueue(this)
         val database = Firebase.database
         val myRef = database.reference
-
+        getMoviesList()
         binding.btn1.setOnClickListener{
             val titulo = binding.etTittle.text.toString()
             val fecha = binding.etYear.text.toString()
